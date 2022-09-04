@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FardinK33
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning DSA, Web Development
-- 💞️ I’m looking to collaborate on New Products and Development 
+<!--- 💞️ I’m looking to collaborate on New Products and Development --->
 - 📫 How to reach me - fardinkhan7786@gmail.com
 
 <!---
