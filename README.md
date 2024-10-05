@@ -2,7 +2,7 @@
 - 👀 I’m a Student
 - 🌱 Currently learning DSA & Web Development
 <!--- 💞️ I’m looking to collaborate on New Products and Development --->
-- 📫 How to reach me - fardinkhan7786@gmail.com
+- 📫 How to reach me - fardink3103@gmail.com
 
 <!---
 FardinK33/FardinK33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
